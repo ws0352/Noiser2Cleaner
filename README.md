@@ -1,8 +1,3 @@
-# Centered Kernel Alignment (CKA) - PyTorch Implementation
-
-**A PyTorch implementation of Centered Kernel Alignment (CKA) with GPU support.** 
-
-This code was used for the CKA analysis in our CVPR 2023 paper, "[On the Stability-Plasticity Dilemma of Class-Incremental Learning](https://openaccess.thecvf.com/content/CVPR2023/papers/Kim_On_the_Stability-Plasticity_Dilemma_of_Class-Incremental_Learning_CVPR_2023_paper.pdf)".
 
 ## Usage
 ```python
